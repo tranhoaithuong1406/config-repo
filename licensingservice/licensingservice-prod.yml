@@ -1,4 +1,4 @@
-example.property: "I am in the production"
+example.property: "yeah! license is found !(production)"
 spring.datasource.platform: "h2"
 spring.datasource.url: "jdbc:h2:mem:test_prod_db"
 spring.datasource.driverClassName: "org.h2.Driver"
