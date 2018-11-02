@@ -1,4 +1,4 @@
-example.property: "yeah! license is found !(default)"
+example.property: "xxx"
 spring.datasource.platform: "h2"
 spring.datasource.url: "jdbc:h2:mem:test_db"
 spring.datasource.driverClassName: "org.h2.Driver"
