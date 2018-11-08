@@ -1,4 +1,4 @@
-example.property: "your license is still valid (zzzz)"
+example.property: "your license is still valid (quang)"
 spring.datasource.platform: "h2"
 spring.datasource.url: "jdbc:h2:mem:test_db"
 spring.datasource.driverClassName: "org.h2.Driver"
